@@ -4,8 +4,17 @@ const gridSize = 16;
 const containerSize = 950;
 totalCells = 16*16;
 
+function getRandomColor() {
+    const r = Math.floor(Math.random() * 256);
+    const g = Math.floor(Math.random() * 256);
+    const b = Math.floor(Math.random() * 256);
+
+    return `rgb(${r}, ${g}, ${b})`;
+}
+
 function changeColor(event) {
-    event.target.style.backgroundColor = 'black';
+    let color = getRandomColor();
+    event.target.style.backgroundColor = color;
 }
 
 function createGrid(gridSize) {
