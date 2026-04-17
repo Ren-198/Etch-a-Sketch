@@ -82,6 +82,6 @@ https://github.com/user-attachments/assets/fb2bbdab-a1e5-4ce4-a7d4-ed125bfd8794
 
 
 
-## 🙋‍♂️ Author
+## Author
 
 Created by Rishi Patel
