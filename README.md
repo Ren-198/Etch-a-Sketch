@@ -40,6 +40,14 @@ No installation or extra tools are needed.
 4. Each square will change to a random color when hovered over  
 
 ---
+## Visual Demo
+
+
+
+https://github.com/user-attachments/assets/fb2bbdab-a1e5-4ce4-a7d4-ed125bfd8794
+
+
+---
 
 ## Languages Used
 
@@ -73,14 +81,6 @@ No installation or extra tools are needed.
 - Improve styling and layout  
 
 ---
-
-## Visual Demo
-
-
-
-https://github.com/user-attachments/assets/fb2bbdab-a1e5-4ce4-a7d4-ed125bfd8794
-
-
 
 ## Author
 
