@@ -1,16 +1,16 @@
-# 🎨 Etch-a-Sketch Drawing App
+# Etch-a-Sketch Drawing App
 
 A simple web-based Etch-a-Sketch project where users can draw by moving their mouse over a grid.
 
 ---
 
-## 📌 What This Project Does
+## What This Project Does
 
 This project creates a grid of squares that change color when you hover over them. You can also change the size of the grid using a button.
 
 ---
 
-## 💡 Why This Project Is Useful
+## Why This Project Is Useful
 
 This project helped me practice:
 - JavaScript DOM manipulation
@@ -22,7 +22,7 @@ It’s a good introduction to building interactive web pages without using frame
 
 ---
 
-## ⚙️ How to Run the Project
+## How to Run the Project
 
 1. Download or clone the repository  
 2. Open the folder  
@@ -32,7 +32,7 @@ No installation or extra tools are needed.
 
 ---
 
-## 🕹️ How to Use
+## How to Use
 
 1. Click the **“Set Grid Size”** button  
 2. Enter a number between 1 and 100  
@@ -41,7 +41,7 @@ No installation or extra tools are needed.
 
 ---
 
-## 🧱 Languages Used
+## Languages Used
 
 - HTML  
 - CSS  
@@ -49,7 +49,7 @@ No installation or extra tools are needed.
 
 ---
 
-## 📂 Files in This Project
+## Files in This Project
 
 - `index.html` → structure of the page  
 - `styles.css` → styling for the grid and button  
@@ -57,7 +57,7 @@ No installation or extra tools are needed.
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 - No reset button (you have to reload the page)  
 - Only works with a mouse (not touch-friendly)  
@@ -65,7 +65,7 @@ No installation or extra tools are needed.
 
 ---
 
-## 🔧 Possible Improvements
+## Possible Improvements
 
 - Add a clear/reset button  
 - Let users choose colors  
